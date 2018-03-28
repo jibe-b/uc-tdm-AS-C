@@ -11,7 +11,7 @@ The integration of a TDM module aims at improving the data discovery, and at ass
 
 Data from several sources have been text mined and are indexed and exposed through the Florilege search engine.
 
-This version of the text mining results of scientific publications consists of the automatic recognition and normalization of 1,6 million microorganism taxa and their 3,6 millions habitats and the automatic identification of 3,63 millions relationships between them. The corpus is composed of 1,16 million PubMed references. The taxa are normalized according to NCBI taxonomy. The habitats are normalized according to the OntoBiotope Ontology":http://agroportal.lirmm.fr/ontologies/ONTOBIOTOPE.
+This version of the text mining results of scientific publications consists of the automatic recognition and normalization of 1,6 million microorganism taxa and their 3,6 millions habitats and the automatic identification of 3,63 millions relationships between them. The corpus is composed of 1,16 million PubMed references. The taxa are normalized according to NCBI taxonomy. The habitats are normalized according to the http://agroportal.lirmm.fr/ontologies/ONTOBIOTOPE[OntoBiotope Ontology].
 
 Fields of the DSMZ, GenBank and CIRM databases of entries about microbes have been text-mined and result in 100K relations.
 
@@ -28,7 +28,7 @@ The relevant corpus has been fully pre-processed by AlvisNLP pipeline and indexe
 == User manual, How-to
 === Launching the application
 
-The application is accessible at the address "http://migale.jouy.inra.fr/Florilege/":http://migale.jouy.inra.fr/Florilege/".
+The application is accessible at the address http://migale.jouy.inra.fr/Florilege/[http://migale.jouy.inra.fr/Florilege/].
 
 [[img-sunset]]
 image::images/florilege-homepage.png[]
