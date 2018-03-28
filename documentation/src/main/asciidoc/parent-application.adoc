@@ -160,30 +160,14 @@ The columns specific to the "Taxon " results page are:
 - normalized form of the habitat in which the taxon may live
 - surface form(s) of the habitat, as they appear in the abstract
 
-=== Search by habitat results
-
-
-The columns specific to the "Search by habitat" results page are:
-
-- surface form(s) of the habitat that was queried
-- normalized form of the taxa that live in this habitat. This entry is clickable and directs to the NCBI taxonomy entry of the corresponding taxon
-- surface form(s) of the taxon, as they appear in the abstract
-
-
-=== Search by phenotype results
-
-The columns specific to the "Search by phenotype" results page are:
-
-- normalized form of the phenotype
-- surface form(s) of the phenotype, as it appears in the literature
 
 === Hierarchical search
 
 The results of each query contain the annotations of this entity and the entities that are children of this class in the ontology. For example, searching __firmicutes__returns all occurences of __firmicutes__ in the abstracts as well as occurences of bacteria that are children of __firmicutes__ in the NCBI taxonomy.
 
-[[img-sunset]]
+//[[img-sunset]]
 //.Hierarchical results//
-image::images/florilege-hierarchical.png[]
+//image::images/florilege-hierarchical.png[]
 
 
 
